@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Criss-Fit-Guide/static/css/main.4a96decc.css",
-    "main.js": "/Criss-Fit-Guide/static/js/main.d70718a0.js",
+    "main.css": "/Criss-Fit-Guide/static/css/main.b25706e8.css",
+    "main.js": "/Criss-Fit-Guide/static/js/main.81854abc.js",
     "static/media/program2.png": "/Criss-Fit-Guide/static/media/program2.931d6004f9ed67e9833f.png",
     "static/media/program1.png": "/Criss-Fit-Guide/static/media/program1.ce0452bb247c66548b5e.png",
     "static/media/program4.png": "/Criss-Fit-Guide/static/media/program4.fce72b34f9b46f4be86b.png",
@@ -17,11 +17,11 @@
     "static/media/instagram.png": "/Criss-Fit-Guide/static/media/instagram.61d1f584b32dc7538a57.png",
     "static/media/youtube.png": "/Criss-Fit-Guide/static/media/youtube.2e2e243de161979bb58f.png",
     "index.html": "/Criss-Fit-Guide/index.html",
-    "main.4a96decc.css.map": "/Criss-Fit-Guide/static/css/main.4a96decc.css.map",
-    "main.d70718a0.js.map": "/Criss-Fit-Guide/static/js/main.d70718a0.js.map"
+    "main.b25706e8.css.map": "/Criss-Fit-Guide/static/css/main.b25706e8.css.map",
+    "main.81854abc.js.map": "/Criss-Fit-Guide/static/js/main.81854abc.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a96decc.css",
-    "static/js/main.d70718a0.js"
+    "static/css/main.b25706e8.css",
+    "static/js/main.81854abc.js"
   ]
 }
