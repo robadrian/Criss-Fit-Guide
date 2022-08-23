@@ -1,0 +1,8 @@
+.foodSection {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+}

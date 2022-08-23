@@ -1,0 +1,38 @@
+.SignUp {
+  display: flex;
+  font-family: secondary;
+  text-align: center;
+  margin: 5rem auto;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 120px;
+  width: 70%;
+}
+
+input {
+  font-size: 1rem;
+  text-align: center;
+  padding: 1rem;
+  border: 2px pink solid;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 1rem;
+  outline: none;
+}
+
+.signUp {
+  width: 30%;
+  background: none;
+  font-size: 1rem;
+  border: orangered 2px solid;
+  margin: 1rem auto;
+  padding: 1rem 2rem;
+  border-radius: 1rem;
+  transform: scale(1);
+  transition: all 1s;
+}
+
+.signUp:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}

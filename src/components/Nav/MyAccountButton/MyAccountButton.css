@@ -1,0 +1,20 @@
+.myAccountButton {
+  font-family: secondary;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 2rem;
+  height: fit-content;
+  padding: 1rem;
+  align-self: center;
+  border-radius: 2rem;
+  width: 15rem;
+  border: none;
+  transform: scale(0.5);
+  border: 3px solid pink;
+  transition: all 1s;
+}
+.myAccountButton:hover {
+  transform: scale(0.6);
+  cursor: pointer;
+}

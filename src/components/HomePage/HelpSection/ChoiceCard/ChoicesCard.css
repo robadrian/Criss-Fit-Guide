@@ -1,0 +1,14 @@
+.choiceCard {
+  margin: auto;
+  text-align: center;
+  width: 60%;
+  padding: 0.5rem;
+  border: pink solid 2px;
+  border-radius: 1rem;
+  transition: all 0.5s;
+}
+
+.choiceCard:hover {
+  border-radius: 4rem;
+  cursor: pointer;
+}

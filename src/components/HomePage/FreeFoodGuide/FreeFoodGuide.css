@@ -1,0 +1,24 @@
+.freeFoodGuide {
+  position: relative;
+  color: #ec5028;
+  margin: 1rem auto;
+  animation: freeFoodGuide;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+  text-align: center;
+  width: 50%;
+  transform: scale(1);
+  transition: all 1s;
+}
+
+@keyframes freeFoodGuide {
+  0% {
+    transform: scale(1.2);
+  }
+  50% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(1.2);
+  }
+}

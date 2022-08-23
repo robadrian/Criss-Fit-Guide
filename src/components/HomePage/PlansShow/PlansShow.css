@@ -1,0 +1,57 @@
+.flex {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.scale {
+  transform: scale(1);
+  transition: all 0.3s;
+}
+
+.scale:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+.program1 {
+  margin: 1rem;
+  border-radius: 1rem;
+  -webkit-box-shadow: 0px -1px 5px 4px rgba(203, 48, 48, 0.85);
+  box-shadow: 0px -1px 5px 4px rgba(203, 48, 48, 0.85);
+}
+
+.shadowProgram1 {
+  text-shadow: 2px 4px 6px #ce5937;
+}
+.program2 {
+  margin: 1rem;
+  border-radius: 1rem;
+  -webkit-box-shadow: 0px -1px 5px 4px rgba(110, 190, 76, 0.85);
+  box-shadow: 0px -1px 5px 4px rgba(110, 190, 76, 0.85);
+}
+
+.shadowProgram2 {
+  text-shadow: 2px 4px 6px #6ebe4c;
+}
+.program3 {
+  margin: 1rem;
+  border-radius: 1rem;
+  -webkit-box-shadow: 0px -1px 5px 4px rgb(255, 222, 89, 0.85);
+  box-shadow: 0px -1px 5px 4px rgb(255, 222, 89, 0.85);
+}
+
+.shadowProgram3 {
+  text-shadow: 2px 4px 6px #ffde59;
+}
+
+.program4 {
+  margin: 1rem;
+  border-radius: 1rem;
+  -webkit-box-shadow: 0px -1px 5px 4px rgba(237, 89, 204, 0.85);
+  box-shadow: 0px -1px 5px 4px rgba(237, 89, 204, 0.85);
+}
+
+.shadowProgram4 {
+  text-shadow: 2px 4px 6px #ed59cc;
+}

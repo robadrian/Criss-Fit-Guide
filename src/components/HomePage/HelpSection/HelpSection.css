@@ -1,0 +1,22 @@
+.helpSection {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  background-color: #fdeeea71;
+  border-top: pink 2px solid;
+  border-bottom: pink 2px solid;
+  margin-top: 12rem;
+  width: 40%;
+  height: 30rem;
+}
+
+.helpQuestion {
+  background-color: rgba(0, 0, 0, 0.703);
+  color: white;
+  padding: 1rem;
+  width: 100%;
+  text-align: center;
+}
+.motivational {
+  margin: auto;
+}

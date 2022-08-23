@@ -1,0 +1,9 @@
+.home {
+  display: flex;
+  margin-top: 150px;
+  height: 58rem;
+  margin-bottom: 30px;
+  flex-direction: column;
+  background-image: url(../../assets/Background.png);
+  width: 100%;
+}

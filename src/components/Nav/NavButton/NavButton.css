@@ -1,0 +1,10 @@
+.navText {
+  border-top: orange 2px solid;
+  border-bottom: orangered 2px solid;
+  font-family: main;
+  transition: all 0.2s;
+}
+.navText:hover {
+  transform: rotate(5deg);
+  cursor: pointer;
+}

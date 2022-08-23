@@ -1,0 +1,33 @@
+.footer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 100%;
+  z-index: 2;
+  justify-content: space-around;
+  border-top: pink 2px solid;
+  background-color: #fdeeea62;
+  margin-top: 4rem;
+  display: flex;
+  bottom: 0;
+}
+.middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+.social {
+  display: flex;
+  width: 20%;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.footerDescription {
+  margin-bottom: 0;
+}
+
+.trust {
+  margin-top: 0;
+}

@@ -1,0 +1,35 @@
+.nav {
+  box-sizing: border-box;
+  display: flex;
+  position: fixed;
+  width: 100%;
+  height: 110px;
+  z-index: 2;
+  top: 0;
+  margin-bottom: 2rem;
+  background-color: white;
+  border-bottom: 3px solid pink;
+  justify-content: space-between;
+}
+
+.logo {
+  position: relative;
+  margin: 0;
+  height: fit-content;
+  align-self: center;
+  transition: all 0.2s;
+  transform: scale(1.1);
+}
+
+.logo:hover {
+  cursor: pointer;
+  transform: scale(1.2);
+}
+
+.navButtons {
+  display: flex;
+  width: 80%;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
