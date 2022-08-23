@@ -4,10 +4,13 @@ import HelpSection from "./HelpSection/HelpSection";
 import FreeFoodGuide from "./FreeFoodGuide/FreeFoodGuide";
 import PlansShow from "./PlansShow/PlansShow";
 import FoodSection from "./FoodSection/FoodSection";
+import Nav from "./../Nav/Nav";
+import Footer from "./../Footer/Footer";
 
 export default function Home() {
   return (
     <>
+      <Nav />
       <div className="home">
         <HelpSection />
       </div>
@@ -18,6 +21,7 @@ export default function Home() {
       <PlansShow />
       <FoodSection />
       <FreeFoodGuide />
+      <Footer />
     </>
   );
 }

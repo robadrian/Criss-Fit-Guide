@@ -18,3 +18,15 @@
   transform: scale(0.6);
   cursor: pointer;
 }
+
+a {
+  text-decoration: none;
+
+  &:focus,
+  &:hover,
+  &:visited,
+  &:link,
+  &:active {
+    text-decoration: none;
+  }
+}

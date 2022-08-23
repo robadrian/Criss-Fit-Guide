@@ -1,0 +1,82 @@
+.login {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  background-color: #fdeeea7c;
+  width: 30%;
+  border-top: 2px solid pink;
+  border-bottom: 2px solid pink;
+  -webkit-box-shadow: -10px 0px 13px -7px #000000, 10px 0px 13px -7px #000000,
+    5px 3px 24px -9px rgba(255, 102, 196, 0);
+  box-shadow: -10px 0px 13px -7px #000000, 10px 0px 13px -7px #000000,
+    5px 3px 24px -9px rgba(255, 102, 196, 0);
+  border-radius: 2rem;
+  margin: 4rem auto;
+  padding: 2rem;
+}
+.logo {
+  margin: -4rem auto;
+  transform: scale(1);
+  padding: 1rem;
+  margin-top: 2px solid pink;
+  transition: all 0.5s;
+}
+.logo:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+}
+.loginMessage1 {
+  margin: 2rem auto;
+}
+.loginMessage2 {
+}
+.inputs {
+  width: 100%;
+  display: flex;
+  margin: 1rem auto;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.inputs > input {
+  outline: none;
+  border: 2px solid pink;
+  text-align: center;
+  border-radius: 1rem;
+  margin: 0.5rem;
+  font-size: 1rem;
+}
+.stayConnected {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  text-align: center;
+  font-size: 1rem;
+}
+.stayConnected > input {
+  width: 30%;
+  margin-right: -6rem;
+}
+
+.stayConnected > a {
+  color: #f65b69;
+  text-decoration: underline;
+}
+
+.loginBtn {
+  margin: 0.5rem auto;
+  width: 30%;
+  color: #ff66c4;
+  font-size: 1.7rem;
+  background: none;
+  border-radius: 1rem;
+  border: none;
+  transform: scale(1);
+  text-shadow: 2px 2px 1px #000000;
+  transition: all 0.3s;
+}
+
+.loginBtn:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}

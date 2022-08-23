@@ -1,14 +1,15 @@
 import "./App.css";
-import Nav from "./Nav/Nav";
+import { Route, Routes } from "react-router-dom";
 import Home from "./HomePage/Home";
-import Footer from "./Footer/Footer";
+import Login from "./LoginPage/Login";
 
 function App() {
   return (
     <>
-      <Nav />
-      <Home />
-      <Footer />
+      <Routes>
+        <Route path="/Criss-Fit-Guide/" element={<Home />} />
+        <Route path="/Criss-Fit-Guide/login" element={<Login />} />
+      </Routes>
     </>
   );
 }

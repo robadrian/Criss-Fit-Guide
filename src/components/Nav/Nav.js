@@ -3,6 +3,7 @@ import Logo from "../../assets/Logo.png";
 import "./Nav.css";
 import NavButton from "./NavButton/NavButton";
 import MyAccountButton from "./MyAccountButton/MyAccountButton";
+import { Link } from "react-router-dom";
 
 export default function Nav() {
   return (
@@ -14,7 +15,9 @@ export default function Nav() {
         className="logo"
       />
       <div className="navButtons">
-        <NavButton name="Home" />
+        <Link to="/Criss-Fit-Guide/" style={{ color: "black" }}>
+          <NavButton name="Home" />
+        </Link>
         <NavButton name="Programs" />
         <NavButton name="About Me" />
       </div>
