@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Criss-Fit-Guide/static/css/main.4a96decc.css",
+    "main.js": "/Criss-Fit-Guide/static/js/main.d70718a0.js",
+    "static/media/program2.png": "/Criss-Fit-Guide/static/media/program2.931d6004f9ed67e9833f.png",
+    "static/media/program1.png": "/Criss-Fit-Guide/static/media/program1.ce0452bb247c66548b5e.png",
+    "static/media/program4.png": "/Criss-Fit-Guide/static/media/program4.fce72b34f9b46f4be86b.png",
+    "static/media/program3.png": "/Criss-Fit-Guide/static/media/program3.ef03a51c16bdf92de138.png",
+    "static/media/food3.png": "/Criss-Fit-Guide/static/media/food3.67a93c6f033a249e4157.png",
+    "static/media/food2.png": "/Criss-Fit-Guide/static/media/food2.3c083199302c5d3b4879.png",
+    "static/media/food1.png": "/Criss-Fit-Guide/static/media/food1.cb1043ad5b0501302305.png",
+    "static/media/Background.png": "/Criss-Fit-Guide/static/media/Background.b8f213f933e3d89f4d14.png",
+    "static/media/stripe.png": "/Criss-Fit-Guide/static/media/stripe.b4759562421d8e236ad5.png",
+    "static/media/LobsterTwo-Regular.ttf": "/Criss-Fit-Guide/static/media/LobsterTwo-Regular.c76900a6f5c1f87ce3aa.ttf",
+    "static/media/Logo.png": "/Criss-Fit-Guide/static/media/Logo.f4d0d5190241ba7f8a63.png",
+    "static/media/Kreon-VariableFont_wght.ttf": "/Criss-Fit-Guide/static/media/Kreon-VariableFont_wght.0dab408872c54c727d6c.ttf",
+    "static/media/instagram.png": "/Criss-Fit-Guide/static/media/instagram.61d1f584b32dc7538a57.png",
+    "static/media/youtube.png": "/Criss-Fit-Guide/static/media/youtube.2e2e243de161979bb58f.png",
+    "index.html": "/Criss-Fit-Guide/index.html",
+    "main.4a96decc.css.map": "/Criss-Fit-Guide/static/css/main.4a96decc.css.map",
+    "main.d70718a0.js.map": "/Criss-Fit-Guide/static/js/main.d70718a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a96decc.css",
+    "static/js/main.d70718a0.js"
+  ]
+}
